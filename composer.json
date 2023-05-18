@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MaddHatter\\LaravelFullcalendar\\": "src/"
+            "Shahroz\\LaravelFullcalendar\\": "src/"
         }
     },
     "extra": {
