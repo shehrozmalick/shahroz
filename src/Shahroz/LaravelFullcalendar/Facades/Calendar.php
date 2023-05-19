@@ -1,4 +1,4 @@
-<?php namespace MaddHatter\LaravelFullcalendar\Facades;
+<?php namespace Shahroz\LaravelFullcalendar\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

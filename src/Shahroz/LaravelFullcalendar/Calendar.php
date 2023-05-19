@@ -1,4 +1,4 @@
-<?php namespace MaddHatter\LaravelFullcalendar;
+<?php namespace Shahroz\LaravelFullcalendar;
 
 use ArrayAccess;
 use DateTime;
