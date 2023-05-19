@@ -9,7 +9,7 @@ Or add the following to your composer.json's require section and `composer updat
 
 ```json
 "require": {
-	"shahroz/laravel-fullcalendar": "~1.0"
+	"shahroz/laravel-fullcalendar": "^1.0"
 }
 ```
 
