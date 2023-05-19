@@ -1,13 +1,6 @@
 {
     "name": "shahroz/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Shahroz Malik",
-            "email": "shahrozmalik8@gmail.com"
-        }
-    ],
     "require": {
         "php": "^8.0",
         "illuminate/support": "^9.0"
